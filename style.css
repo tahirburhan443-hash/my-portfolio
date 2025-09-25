@@ -1,0 +1,104 @@
+    .header {
+        text-align: center;
+        border-width: 34px;
+        font-size: 36px;
+        margin-bottom: 30px;
+        background-color: rgb(209, 94, 94);
+        border-radius: 24px;
+        margin-inline: 00px;
+    }
+    
+    .img {
+        width: 300px;
+        height: 300px;
+        border-radius: 200px;
+    }
+    
+    .disply {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: rgb(46, 43, 94);
+        color: rgb(226, 217, 218);
+        padding: 34px;
+    }
+    
+    .text {
+        font-size: 34px;
+    }
+    
+    nav {
+        background-color: #a31717;
+        padding: 20px;
+        display: flex;
+        gap: 55px;
+        justify-content: center;
+    }
+    
+    nav a {
+        color: #deecdb;
+        text-decoration: none;
+        margin-right: 20px;
+        display: flex;
+        justify-content: center;
+        border-radius: 34px;
+    }
+    
+    .content {
+        position: relative;
+        margin-left: 300px;
+        display: flex;
+    }
+    
+    .tahir {
+        position: absolute;
+        top: 00px;
+        left: 150px;
+        color: rgb(59, 117, 117);
+    }
+    
+    body {
+        background-color: rgb(185, 167, 60);
+    }
+    
+    #home {
+        background-color: rgb(98, 168, 165);
+        text-align: center;
+        font-size: 24px;
+        border: 1px solid;
+        border-radius: 50px;
+        margin-top: 23px;
+        padding: 34px;
+    }
+    
+    section {
+        padding: 40px;
+        border-bottom: 1px solid;
+    }
+    
+    #about {
+        background-color: rgb(98, 168, 165);
+        text-align: center;
+        font-size: 24px;
+        border: 1px solid;
+        border-radius: 50px;
+        margin-top: 23px;
+    }
+    
+    #skills {
+        background-color: rgb(98, 168, 165);
+        text-align: center;
+        font-size: 24px;
+        border: 1px solid;
+        border-radius: 34px;
+        margin-top: 23px;
+    }
+    
+    #contact {
+        background-color: rgb(187, 156, 164);
+        text-align: center;
+        font-size: 24px;
+        border: 1px solid;
+        border-radius: 34px;
+        margin-top: 23px;
+    }
